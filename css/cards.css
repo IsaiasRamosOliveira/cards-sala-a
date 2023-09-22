@@ -100,6 +100,8 @@ body {
   border: none;
   border-top: 1px solid #ffffff48;
   padding: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .cards__btn {
